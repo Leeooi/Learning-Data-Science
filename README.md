@@ -1,1 +1,1 @@
-# Learning-Data-Science
+# LearningDataScience
